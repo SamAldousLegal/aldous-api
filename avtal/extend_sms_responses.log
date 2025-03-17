@@ -1,0 +1,5 @@
+2025-03-17 15:40:37,031 - avtal.sms - INFO - Processing file: avtal\\files-in\SMS Responses - Aldous_2025-03-06T01_01_05.568794656Z.csv
+2025-03-17 15:40:37,031 - avtal.sms - INFO - Loading CSV data from avtal\\files-in\SMS Responses - Aldous_2025-03-06T01_01_05.568794656Z.csv
+2025-03-17 15:40:39,183 - avtal.sms - INFO - Fetching API data for 823 accounts
+2025-03-17 15:40:40,429 - avtal.sms - INFO - API request successful.
+2025-03-17 15:40:40,445 - avtal.sms - INFO - Processed and saved extended file: avtal\\files-out\\SMS_Responses-Aldous-Extended_2025-03-06T01_01_05.568794656Z.csv

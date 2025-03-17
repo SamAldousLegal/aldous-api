@@ -38,3 +38,8 @@
 2025-03-12 14:28:38 - INFO - Connected to SFTP server: sftp.aldouslegal.com
 2025-03-12 14:28:38 - INFO - Downloaded file: /aldous-sftp/tcn/call_recordings/test.txt -> downloads/tcn\call_recordings\test.txt
 2025-03-12 14:28:38 - INFO - SFTP connection closed.
+2025-03-13 11:32:58 - INFO - Connected to SFTP server: sftp.aldouslegal.com
+2025-03-13 11:54:17 - INFO - Downloaded file: /aldous-sftp/tcn/call_recordings/Inbound_linkcall_2025_03_12-Combined_Broadcasts.zip -> downloads/tcn\call_recordings\Inbound_linkcall_2025_03_12-Combined_Broadcasts.zip
+2025-03-13 11:54:57 - INFO - Downloaded file: /aldous-sftp/tcn/call_recordings/Manual_Dial_linkcall_202503122025_03_12Combined_Broadcasts.zip -> downloads/tcn\call_recordings\Manual_Dial_linkcall_202503122025_03_12Combined_Broadcasts.zip
+2025-03-13 12:08:44 - INFO - Downloaded file: /aldous-sftp/tcn/call_recordings/Outbound_linkcall_2025_03_12-Combined_Broadcasts.zip -> downloads/tcn\call_recordings\Outbound_linkcall_2025_03_12-Combined_Broadcasts.zip
+2025-03-13 12:08:44 - INFO - SFTP connection closed.

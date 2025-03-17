@@ -4,3 +4,57 @@
 2025-03-12 13:28:03 - INFO - Auth token is valid.
 2025-03-12 13:31:58 - INFO - Auth token is valid.
 2025-03-12 13:39:20 - INFO - Auth token is valid.
+2025-03-13 14:50:22 - WARNING - Auth token invalid, attempting refresh...
+2025-03-13 14:50:22 - ERROR - Token refresh failed: 400 Client Error: Bad Request for url: https://api.aldouslegal.com/api/v1/auth/refresh
+2025-03-13 14:50:22 - WARNING - Refresh token also failed, getting new auth token...
+2025-03-13 14:50:22 - INFO - Successfully retrieved new auth token.
+2025-03-13 14:50:22 - INFO - Tokens updated successfully.
+2025-03-14 11:19:09 - WARNING - Auth token invalid, attempting refresh...
+2025-03-14 11:19:10 - ERROR - Token refresh failed: 400 Client Error: Bad Request for url: https://api.aldouslegal.com/api/v1/auth/refresh
+2025-03-14 11:19:10 - WARNING - Refresh token also failed, getting new auth token...
+2025-03-14 11:19:10 - INFO - Successfully retrieved new auth token.
+2025-03-14 11:19:10 - INFO - Tokens updated successfully.
+2025-03-14 11:24:27 - INFO - Auth token is valid.
+2025-03-17 13:05:25 - WARNING - Auth token invalid, attempting refresh...
+2025-03-17 13:05:25 - ERROR - Token refresh failed: 400 Client Error: Bad Request for url: https://api.aldouslegal.com/api/v1/auth/refresh
+2025-03-17 13:05:25 - WARNING - Refresh token also failed, getting new auth token...
+2025-03-17 13:05:25 - INFO - Successfully retrieved new auth token.
+2025-03-17 13:05:25 - INFO - Tokens updated successfully.
+2025-03-17 13:06:25 - INFO - Auth token is valid.
+2025-03-17 13:07:03 - INFO - Auth token is valid.
+2025-03-17 13:11:13 - INFO - Auth token is valid.
+2025-03-17 13:13:13 - INFO - Auth token is valid.
+2025-03-17 13:30:53 - INFO - Auth token is valid.
+2025-03-17 13:39:55 - WARNING - Auth token invalid, attempting refresh...
+2025-03-17 13:39:55 - INFO - Successfully refreshed auth token.
+2025-03-17 13:39:55 - INFO - Tokens updated successfully.
+2025-03-17 13:54:34 - INFO - Auth token is valid.
+2025-03-17 13:54:34 - INFO - Auth token is valid.
+2025-03-17 13:57:20 - INFO - Auth token is valid.
+2025-03-17 13:57:20 - INFO - Auth token is valid.
+2025-03-17 13:59:15 - INFO - Auth token is valid.
+2025-03-17 13:59:15 - INFO - Auth token is valid.
+2025-03-17 13:59:36 - INFO - Auth token is valid.
+2025-03-17 13:59:37 - INFO - Auth token is valid.
+2025-03-17 14:01:28 - INFO - Auth token is valid.
+2025-03-17 14:01:28 - INFO - Auth token is valid.
+2025-03-17 14:03:13 - INFO - Auth token is valid.
+2025-03-17 14:03:13 - INFO - Auth token is valid.
+2025-03-17 14:11:31 - WARNING - Auth token invalid, attempting refresh...
+2025-03-17 14:11:31 - ERROR - Token refresh failed: 400 Client Error: Bad Request for url: https://api.aldouslegal.com/api/v1/auth/refresh
+2025-03-17 14:11:31 - WARNING - Refresh token also failed, getting new auth token...
+2025-03-17 14:11:31 - INFO - Successfully retrieved new auth token.
+2025-03-17 14:11:31 - INFO - Tokens updated successfully.
+2025-03-17 14:16:45 - INFO - Auth token is valid.
+2025-03-17 14:18:34 - INFO - Auth token is valid.
+2025-03-17 14:23:05 - INFO - Auth token is valid.
+2025-03-17 14:23:45 - INFO - Auth token is valid.
+2025-03-17 14:26:19 - INFO - Auth token is valid.
+2025-03-17 14:31:35 - INFO - Auth token is valid.
+2025-03-17 15:33:28 - WARNING - Auth token invalid, attempting refresh...
+2025-03-17 15:33:28 - ERROR - Token refresh failed: 400 Client Error: Bad Request for url: https://api.aldouslegal.com/api/v1/auth/refresh
+2025-03-17 15:33:28 - WARNING - Refresh token also failed, getting new auth token...
+2025-03-17 15:33:28 - INFO - Successfully retrieved new auth token.
+2025-03-17 15:33:28 - INFO - Tokens updated successfully.
+2025-03-17 15:39:09 - INFO - Auth token is valid.
+2025-03-17 15:40:39 - INFO - Auth token is valid.

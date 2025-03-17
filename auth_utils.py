@@ -58,10 +58,10 @@ def refresh_auth_token(refresh_token):
         return None
 
     url = f"{api_base_url}/auth/refresh"
-    payload = {"refresh_token": refresh_token}
+    headers = {"accept": "*/*", "refresh": refresh_token}
 
     try:
-        response = requests.post(url, json=payload)
+        response = requests.post(url, headers=headers)
         response.raise_for_status()
         new_token = response.json().get("result", {}).get("access_token")
         auth_logger.info("Successfully refreshed auth token.")
